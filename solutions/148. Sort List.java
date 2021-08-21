@@ -42,10 +42,3 @@ class Solution {
         while (head != null && head.next != null) {
             midPrev = (midPrev == null) ? head : midPrev.next;
             head = head.next.next;
-        }
-        ListNode mid = midPrev.next;
-        midPrev.next = null;
-        return mid;
-    }
-}
-​
