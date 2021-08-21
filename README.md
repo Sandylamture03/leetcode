@@ -16,6 +16,6 @@
 |147|[ Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](./solutions/147.%20Insertion%20Sort%20List.cpp)|48 ms|
 |148|[ Sort List](https://leetcode.com/problems/sort-list/)|[Java](./solutions/148.%20Sort%20List.java)|5 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[Python3](./solutions/169.%20Majority%20Element.py)|164 ms|
-|179|[ Largest Number](https://leetcode.com/problems/largest-number/)|[Python3](./solutions/179.%20Largest%20Number.py)|36 ms|
+|179|[ Largest Number](https://leetcode.com/problems/largest-number/)|[Python3](./solutions/179.%20Largest%20Number.py)|103 ms|
 |258|[ Add Digits](https://leetcode.com/problems/add-digits/)|[Python3](./solutions/258.%20Add%20Digits.py)|36 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Java](./solutions/976.%20Largest%20Perimeter%20Triangle.java)|6 ms|
