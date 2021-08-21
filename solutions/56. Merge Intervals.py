@@ -42,13 +42,3 @@ class Solution:
                 markComponentDFS(interval)
                 comp_number += 1
 ​
-        return nodes_in_comp, comp_number
-​
-​
-    def merge(self, intervals: List[List[int]]) -> List[List[int]]:
-        graph = self.buildGraph(intervals)
-        nodes_in_comp, number_of_comps = self.getComponents(graph, intervals)
-​
-        # all intervals in each connected component must be merged.
-        return [self.mergeNodes(nodes_in_comp[comp]) for comp in range(number_of_comps)]
-​
