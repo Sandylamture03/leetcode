@@ -11,6 +11,7 @@
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python3](./solutions/56.%20Merge%20Intervals.py)|N/A|
 |57|[ Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python3](./solutions/57.%20Insert%20Interval.py)|72 ms|
 |69|[ Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python3](./solutions/69.%20Sqrt(x).py)|59 ms|
+|75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|[C++](./solutions/75.%20Sort%20Colors.cpp)|0 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)|N/A|
 |148|[ Sort List](https://leetcode.com/problems/sort-list/)|[Java](./solutions/148.%20Sort%20List.java)|5 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[Python3](./solutions/169.%20Majority%20Element.py)|164 ms|
