@@ -31,5 +31,6 @@
 |438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[C++](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.cpp)|24 ms|
 |463|[ Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Java](./solutions/463.%20Island%20Perimeter.java)|6 ms|
 |554|[ Brick Wall](https://leetcode.com/problems/brick-wall/)|[C++](./solutions/554.%20Brick%20Wall.cpp)|44 ms|
+|609|[ Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Java](./solutions/609.%20Find%20Duplicate%20File%20in%20System.java)|25 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[C++](./solutions/976.%20Largest%20Perimeter%20Triangle.cpp)|70 ms|
 |1333|[ Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[JavaScript](./solutions/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.js)|156 ms|
