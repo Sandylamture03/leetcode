@@ -30,6 +30,7 @@
 |387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Python3](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.py)|92 ms|
 |438|[ Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[C++](./solutions/438.%20Find%20All%20Anagrams%20in%20a%20String.cpp)|24 ms|
 |463|[ Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Java](./solutions/463.%20Island%20Perimeter.java)|6 ms|
+|547|[ Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[JavaScript](./solutions/547.%20Number%20of%20Provinces.js)|124 ms|
 |554|[ Brick Wall](https://leetcode.com/problems/brick-wall/)|[C++](./solutions/554.%20Brick%20Wall.cpp)|44 ms|
 |609|[ Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Java](./solutions/609.%20Find%20Duplicate%20File%20in%20System.java)|25 ms|
 |684|[ Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Python](./solutions/684.%20Redundant%20Connection.python)|72 ms|
