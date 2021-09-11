@@ -36,6 +36,7 @@
 |726|[ Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|[C++](./solutions/726.%20Number%20of%20Atoms.cpp)|0 ms|
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C++](./solutions/739.%20Daily%20Temperatures.cpp)|144 ms|
 |811|[ Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Python3](./solutions/811.%20Subdomain%20Visit%20Count.py)|48 ms|
+|886|[ Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Java](./solutions/886.%20Possible%20Bipartition.java)|32 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[C++](./solutions/976.%20Largest%20Perimeter%20Triangle.cpp)|70 ms|
 |1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python3](./solutions/1002.%20Find%20Common%20Characters.py)|63 ms|
 |1333|[ Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[JavaScript](./solutions/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.js)|156 ms|
