@@ -35,6 +35,7 @@
 |706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[C++](./solutions/706.%20Design%20HashMap.cpp)|96 ms|
 |726|[ Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|[C++](./solutions/726.%20Number%20of%20Atoms.cpp)|0 ms|
 |739|[ Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C++](./solutions/739.%20Daily%20Temperatures.cpp)|144 ms|
+|785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./solutions/785.%20Is%20Graph%20Bipartite%3F.java)|0 ms|
 |811|[ Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Python3](./solutions/811.%20Subdomain%20Visit%20Count.py)|48 ms|
 |886|[ Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Java](./solutions/886.%20Possible%20Bipartition.java)|32 ms|
 |924|[ Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)|[Java](./solutions/924.%20Minimize%20Malware%20Spread.java)|11 ms|
