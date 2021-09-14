@@ -55,6 +55,7 @@
 |811|[ Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Python3](./solutions/811.%20Subdomain%20Visit%20Count.py)|48 ms|
 |886|[ Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Java](./solutions/886.%20Possible%20Bipartition.java)|32 ms|
 |924|[ Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)|[Java](./solutions/924.%20Minimize%20Malware%20Spread.java)|11 ms|
+|938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Java](./solutions/938.%20Range%20Sum%20of%20BST.java)|0 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[C++](./solutions/976.%20Largest%20Perimeter%20Triangle.cpp)|70 ms|
 |1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python3](./solutions/1002.%20Find%20Common%20Characters.py)|63 ms|
 |1319|[ Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[Java](./solutions/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.java)|24 ms|
