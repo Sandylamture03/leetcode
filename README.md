@@ -21,6 +21,7 @@
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Python3](./solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree.py)|54 ms|
 |105|[ Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Python3](./solutions/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.py)|58 ms|
 |108|[ Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python3](./solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.py)|90 ms|
+|112|[ Path Sum](https://leetcode.com/problems/path-sum/)|[Python3](./solutions/112.%20Path%20Sum.py)|69 ms|
 |121|[ Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./solutions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)|3 ms|
 |125|[ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python3](./solutions/125.%20Valid%20Palindrome.py)|44 ms|
 |127|[ Word Ladder](https://leetcode.com/problems/word-ladder/)|[Java](./solutions/127.%20Word%20Ladder.java)|2169 ms|
