@@ -57,6 +57,7 @@
 |924|[ Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)|[Java](./solutions/924.%20Minimize%20Malware%20Spread.java)|11 ms|
 |938|[ Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Java](./solutions/938.%20Range%20Sum%20of%20BST.java)|0 ms|
 |976|[ Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[C++](./solutions/976.%20Largest%20Perimeter%20Triangle.cpp)|70 ms|
+|979|[ Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)|[Python](./solutions/979.%20Distribute%20Coins%20in%20Binary%20Tree.python)|28 ms|
 |1002|[ Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Python3](./solutions/1002.%20Find%20Common%20Characters.py)|63 ms|
 |1319|[ Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[Java](./solutions/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.java)|24 ms|
 |1333|[ Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)|[JavaScript](./solutions/1333.%20Filter%20Restaurants%20by%20Vegan-Friendly%2C%20Price%20and%20Distance.js)|156 ms|
