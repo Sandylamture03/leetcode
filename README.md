@@ -46,6 +46,7 @@
 |554|[ Brick Wall](https://leetcode.com/problems/brick-wall/)|[C++](./solutions/554.%20Brick%20Wall.cpp)|44 ms|
 |609|[ Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Java](./solutions/609.%20Find%20Duplicate%20File%20in%20System.java)|25 ms|
 |684|[ Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Python](./solutions/684.%20Redundant%20Connection.python)|72 ms|
+|687|[ Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Python](./solutions/687.%20Longest%20Univalue%20Path.python)|374 ms|
 |706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[C++](./solutions/706.%20Design%20HashMap.cpp)|96 ms|
 |721|[ Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Python](./solutions/721.%20Accounts%20Merge.python)|188 ms|
 |726|[ Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|[C++](./solutions/726.%20Number%20of%20Atoms.cpp)|0 ms|
